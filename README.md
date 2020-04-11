@@ -1,6 +1,6 @@
 # Basic-Data-Types
 
-To run this program do the following:
+**To run this program do the following:**
 
 1. Download Godot Engine
 2. Download/Clone this repo to your computer
