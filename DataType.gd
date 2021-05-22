@@ -47,9 +47,9 @@ var integer = 100;
 # declare a float, make sure you use a decimal point
 var floatValue = 10.99;
 
-##########
-# Floats #
-##########
+############
+# Booleans #
+############
 
 # declare a boolean by typing true or false
 var trueBoolean = true; 
